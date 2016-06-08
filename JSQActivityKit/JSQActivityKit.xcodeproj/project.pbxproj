@@ -167,7 +167,6 @@
 		88FE294D1B0806C200A11178 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Hexed Bits";
 				TargetAttributes = {
